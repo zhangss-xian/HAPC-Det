@@ -1,0 +1,1 @@
+The datasets used during the study are available in the VisDrone2019 repository (https://github.com/VisDrone/VisDrone-Dataset) and the RSOD repository (https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-).
